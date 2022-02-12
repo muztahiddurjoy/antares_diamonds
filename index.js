@@ -11,6 +11,11 @@ $(document).ready(function(){
             $('#navmain').removeClass('bg-gradient-to-b from-slate-900')
         }
      })
+     
+    //  $('.customtext').click(function(){
+    //     $('.labelclass').toggleClass('top-5')
+
+    //  })
     $('#navopener').click(function(){
      $('#navul').slideToggle()
     })
